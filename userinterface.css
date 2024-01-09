@@ -2,3 +2,10 @@ div{
     margin: 20px;
     border: thin solid red;
 }
+
+
+.myheader{
+    background-color: black;
+    color: white;
+
+}
